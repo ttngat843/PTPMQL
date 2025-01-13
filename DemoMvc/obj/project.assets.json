@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Net_Core_API\\DemoGit\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "D:\\Net_Core_API\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "D:\\Net_Core_API\\DemoGit\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "D:\\Net_Core_API\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\tngat\\.nuget\\packages\\",
-      "outputPath": "D:\\Net_Core_API\\DemoGit\\MvcMovie\\obj\\",
+      "outputPath": "D:\\Net_Core_API\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tngat\\AppData\\Roaming\\NuGet\\NuGet.Config"
