@@ -10,7 +10,7 @@ public class HomeController : Controller
 
     public HomeController(ILogger<HomeController> logger)
     {
-        string add = "Tran Thi Ngat"
+        string add = "Tran Thi Ngat";
         _logger = logger;
     }
 
@@ -21,6 +21,10 @@ public class HomeController : Controller
 
     public IActionResult Privacy()
     {
+        return View();
+    }
+    public IActionResult Contact()
+    { 
         return View();
     }
 
