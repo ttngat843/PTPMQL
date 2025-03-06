@@ -1,7 +1,8 @@
-﻿namespace Demo_MVC.Data
+
+namespace DemoMvc.Data
 {
     using Microsoft.EntityFrameworkCore;
-    using DemoMVC.Models;
+    using DemoMvc.Models;
 
     public class ApplicationDbContext : DbContext
     {
@@ -10,6 +11,6 @@
         {
         }
         //Ánh xạ class Student vào trong csdl tạo ra bảng Students
-        public DbSet<Student> Students { get; set; }
+        public DbSet<Person> Person { get; set; }
     }
 }
