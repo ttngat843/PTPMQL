@@ -1,0 +1,9 @@
+D:\Net_Core_API\DemoMvc\obj\Debug\net9.0\MvcMovie.csproj.AssemblyReference.cache
+D:\Net_Core_API\DemoMvc\obj\Debug\net9.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net_Core_API\DemoMvc\obj\Debug\net9.0\MvcMovie.AssemblyInfoInputs.cache
+D:\Net_Core_API\DemoMvc\obj\Debug\net9.0\MvcMovie.AssemblyInfo.cs
+D:\Net_Core_API\DemoMvc\obj\Debug\net9.0\MvcMovie.csproj.CoreCompileInputs.cache
+D:\Net_Core_API\DemoMvc\obj\Debug\net9.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+D:\Net_Core_API\DemoMvc\obj\Debug\net9.0\MvcMovie.RazorAssemblyInfo.cache
+D:\Net_Core_API\DemoMvc\obj\Debug\net9.0\MvcMovie.RazorAssemblyInfo.cs
+D:\Net_Core_API\DemoMvc\obj\Debug\net9.0\MvcMovie.sourcelink.json
